@@ -2,6 +2,7 @@
 
 > **Estado:** guion y apoyo visual listos para grabar. El enlace del video queda pendiente hasta que el equipo lo grabe y lo suba a YouTube como **No listado**.
 
+**Diapositivas:** [Pitch_Taller_6.pptx](../Presentaciones%20de%20Proyecto/Pitch_Taller_6.pptx)  
 **Video del pitch (YouTube, No listado):** PENDIENTE_DE_ENLACE
 
 **Duración prevista:** 4 min 35 s a 4 min 50 s, con transiciones breves.  
